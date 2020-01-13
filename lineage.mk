@@ -13,6 +13,6 @@ TARGET_SCREEN_WIDTH := 540
 
 PRODUCT_NAME := lineage_xt907_jbbl
 TARGET_VENDOR_PRODUCT_NAME := XT907_verizon
-TARGET_VENDOR_DEVICE_NAME := scorpion
+TARGET_VENDOR_DEVICE_NAME := scorpion_mini
 
 $(call inherit-product, device/motorola/xt907_jbbl/full_xt907_jbbl.mk)

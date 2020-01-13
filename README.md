@@ -1,4 +1,4 @@
-Device configuration for the Motorola Droid Razr HD (smq-vzw)
+Device configuration for the Motorola Droid Razr M (smq-vzw)
 ===============================
 
 Copyright 2015 - The CyanogenMod Project

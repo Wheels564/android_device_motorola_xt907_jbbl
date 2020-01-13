@@ -27,7 +27,7 @@ LOCAL_PATH := device/motorola/xt907_jbbl
 DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
 
 PRODUCT_AAPT_CONFIG := normal
-PRODUCT_AAPT_PREF_CONFIG := xhdpi
+PRODUCT_AAPT_PREF_CONFIG := hdpi
 
 # Unlock for US GSM
 PRODUCT_PACKAGES += \
@@ -54,7 +54,7 @@ PRODUCT_COPY_FILES += \
 
 # QCOM Display
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.sf.lcd_density=256
+    ro.sf.lcd_density=240
 
 # Telephony
 PRODUCT_PROPERTY_OVERRIDES += \

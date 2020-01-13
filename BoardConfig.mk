@@ -29,7 +29,7 @@
 LOCAL_PATH := device/motorola/xt907_jbbl
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := xt907_jbbl,vanquish
+TARGET_OTA_ASSERT_DEVICE := xt907_jbbl,scorpion_mini,smq
 
 # Bluetooth
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := $(LOCAL_PATH)/bluetooth
