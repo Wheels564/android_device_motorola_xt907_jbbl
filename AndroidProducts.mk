@@ -14,4 +14,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_xt907_jbbl.mk
+    $(LOCAL_DIR)/full_xt907_jbbl.mk
