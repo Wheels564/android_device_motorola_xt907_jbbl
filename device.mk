@@ -44,8 +44,7 @@ PRODUCT_COPY_FILES += \
 # CMActions
 PRODUCT_PACKAGES += \
     CMActions \
-    libjni_CMActions
-
+    
 # Media config
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/config/media_profiles.xml:system/etc/media_profiles.xml
