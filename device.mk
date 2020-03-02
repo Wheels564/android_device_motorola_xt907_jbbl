@@ -40,10 +40,6 @@ PRODUCT_PACKAGES += \
 # Audio configuration
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/config/snd_soc_msm_2x:system/etc/snd_soc_msm/snd_soc_msm_2x
-
-# CMActions
-PRODUCT_PACKAGES += \
-    CMActions \
     
 # Media config
 PRODUCT_COPY_FILES += \
